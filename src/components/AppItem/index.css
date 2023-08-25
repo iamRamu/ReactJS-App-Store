@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 180px;
+  background-color: #ffffff;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 20px;
+  color: #1e293b;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  list-style-type: none;
+}
+
+.img-size {
+  width: 90px;
+}
